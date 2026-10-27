@@ -1,7 +1,7 @@
 # Dummy configuration for GitHub access testing only
 project: crumlin-grants-github-test
 version: "1.0"
-test_status: not_checked
+test_status: verified
 features:
   read_files: true
   edit_files: true
