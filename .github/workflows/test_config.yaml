@@ -1,0 +1,10 @@
+# Dummy configuration for GitHub access testing only
+project: crumlin-grants-github-test
+version: "1.0"
+test_status: not_checked
+features:
+  read_files: true
+  edit_files: true
+  create_files: true
+  report_results: true
+# No credentials or sensitive values are stored in this file.

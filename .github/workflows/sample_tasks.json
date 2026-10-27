@@ -1,0 +1,18 @@
+{
+  "project": "Crumlin Grants GitHub Test",
+  "dummy_data": true,
+  "tasks": [
+    {
+      "id": "DEMO-001",
+      "title": "Confirm repository is readable",
+      "owner": "Test User",
+      "status": "open"
+    },
+    {
+      "id": "DEMO-002",
+      "title": "Check repository editing permissions",
+      "owner": "Test User",
+      "status": "open"
+    }
+  ]
+}
