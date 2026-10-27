@@ -13,6 +13,12 @@
       "title": "Check repository editing permissions",
       "owner": "Test User",
       "status": "open"
+    },
+    {
+      "id": "DEMO-003",
+      "title": "Verify ChatGPT can update GitHub files directly",
+      "owner": "Test User",
+      "status": "completed"
     }
   ]
 }
